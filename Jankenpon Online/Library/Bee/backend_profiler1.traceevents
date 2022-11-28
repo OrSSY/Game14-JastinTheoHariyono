@@ -1,0 +1,639 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1669661666350797, "dur":686, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666351490, "dur":87, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1669661666351609, "dur":22, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1669661666351633, "dur":365, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1669661666352032, "dur":574, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666352606, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716588, "dur":164, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716752, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716780, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716784, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716798, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716800, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716807, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716809, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716815, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716817, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716822, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716824, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716829, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716830, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716836, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716837, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716844, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716854, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666716868, "dur":5144, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1669661666352483, "dur":167, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666352650, "dur":3051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666355702, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669661666355760, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666355908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666358711, "dur":3350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669661666362113, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1669661666362147, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666362170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666362632, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1669661666364539, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1669661666364577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666365053, "dur":73944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1669661666439079, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666439118, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666439131, "dur":29589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666468732, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666468784, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666468790, "dur":4032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666472840, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666472856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666472865, "dur":583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666473459, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666473473, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666473478, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666474442, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666474460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666474468, "dur":512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666474990, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666475009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666475015, "dur":447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666475477, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666475490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666475495, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666477364, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666477389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666477420, "dur":1816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479261, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479284, "dur":494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479803, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666479831, "dur":432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480272, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480284, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480288, "dur":443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480741, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480756, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666480766, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666481839, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666481855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666481862, "dur":498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666482372, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666482385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666482391, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483031, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483046, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483052, "dur":533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483596, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483613, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666483618, "dur":4078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666487708, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666487725, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666487735, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666488720, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666488900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666488906, "dur":4653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666493577, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666493655, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666493679, "dur":4572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666498263, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666498450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666498488, "dur":656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666499155, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666499244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666499250, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666502475, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666502490, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666502494, "dur":89650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666592156, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666592170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666592175, "dur":1044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666593249, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666593283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666593294, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666596064, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666596087, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666596112, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666597130, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666597389, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666597398, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666599039, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666599148, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666599152, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666600881, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666600893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666600898, "dur":8338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666609259, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666609453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666609460, "dur":3857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669661666613332, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":1, "ts":1669661666613352, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666613356, "dur":6288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":1, "ts":1669661666619661, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1669661666619676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666619683, "dur":11996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1669661666631700, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666631727, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666631745, "dur":6079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666637840, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1669661666637855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666637859, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1669661666638646, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666638663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666638670, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666639492, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1669661666639505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666639509, "dur":1039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1669661666640562, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666640576, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666640581, "dur":1021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669661666641617, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1669661666641631, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669661666641636, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1669661666643773, "dur":72847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666352980, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666352980, "dur":2679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666355659, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666355724, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666355769, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666358666, "dur":3490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666362194, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666362234, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666362305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666362338, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666364199, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666364233, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666364253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666364267, "dur":63008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666428114, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666428443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666428449, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666429230, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666429252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666429258, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666430966, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666430989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666430996, "dur":788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666431798, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666431815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666431819, "dur":9131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666440966, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666440981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666440988, "dur":2979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666443985, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666444026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666444037, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666444778, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666444804, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666444810, "dur":503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666445329, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666445348, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666445353, "dur":748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666446117, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666446132, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666446138, "dur":11262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666457415, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666457438, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666457443, "dur":11188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666468714, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666468739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666468779, "dur":170653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669661666639446, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1669661666639463, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666639468, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1669661666640649, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1669661666640662, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666640667, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1669661666641634, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666641717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669661666641722, "dur":5542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1669661666647280, "dur":69304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666352620, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666352620, "dur":3028, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666355658, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1669661666355669, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666355969, "dur":305, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1669661666356276, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1669661666356296, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666356739, "dur":4811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1669661666361555, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669661666361616, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666361670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666361781, "dur":1299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669661666363118, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1669661666363172, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666363289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666363296, "dur":1021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1669661666364359, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666364397, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666364446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666364450, "dur":100938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666465453, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666465492, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666465502, "dur":21631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666487152, "dur":2079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666489235, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666489241, "dur":12236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666501495, "dur":693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666502191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666502197, "dur":14480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666516695, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666516728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669661666516735, "dur":199801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669661666716550, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":3, "ts":1669661666716551, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666352764, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666352765, "dur":2887, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666355658, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1669661666355725, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666355791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666358696, "dur":3208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1669661666361940, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1669661666361974, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666362011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666362096, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1669661666363876, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1669661666363906, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666363927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666363933, "dur":55322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1669661666419349, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666419468, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666419474, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666421132, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666421161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666421166, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666422921, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666422946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666422951, "dur":3673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666426663, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666426693, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666426704, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666427658, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666427701, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666427706, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666430262, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666430278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666430287, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666431182, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666431205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666431210, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666432219, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666432246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666432252, "dur":162931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666595211, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666595237, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666595251, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666596672, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666596835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666596842, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666598752, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666598962, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666598973, "dur":1021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666600010, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666600024, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666600031, "dur":9228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666609276, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666609504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666609510, "dur":3695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669661666613222, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1669661666613238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666613254, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1669661666614759, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666614786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666614793, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666615721, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":4, "ts":1669661666615736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666615746, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":4, "ts":1669661666617415, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666617430, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666617437, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666619699, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1669661666619712, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666619716, "dur":5197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1669661666624931, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666624945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666624954, "dur":3150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666628124, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1669661666628240, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666628250, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1669661666629669, "dur":1245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1669661666630921, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666630935, "dur":981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1669661666631930, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666631946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666631951, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1669661666635302, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level4.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666635321, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666635334, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level4.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666636745, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1669661666636765, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666636774, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1669661666637499, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level3.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666637512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666637518, "dur":1330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level3.resS" }}
+,{ "pid":12345, "tid":4, "ts":1669661666638859, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1669661666638874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666638878, "dur":1713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1669661666640602, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1669661666640613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669661666640617, "dur":6654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1669661666647285, "dur":69328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666352906, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666352906, "dur":2777, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666355683, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669661666355740, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666355966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666358743, "dur":3654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669661666362437, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669661666362473, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666362621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666362640, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669661666364455, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1669661666364496, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666364513, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666364516, "dur":54752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1669661666419352, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666419473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666419493, "dur":1616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666421123, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666421145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666421151, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666422768, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666422806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666422890, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424014, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424044, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424926, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666424989, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666426871, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666426890, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666426895, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666427592, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666427614, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666427620, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666428782, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666428801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666428808, "dur":1457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666430279, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666430297, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666430301, "dur":1643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666431956, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666431972, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666431977, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666432679, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666432695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666432701, "dur":486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666433199, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666433217, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666433229, "dur":852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434095, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434171, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434189, "dur":616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434821, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434841, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666434850, "dur":999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666435867, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666435887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666435894, "dur":605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666436515, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666436541, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666436549, "dur":47885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666484452, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666484471, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666484478, "dur":520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666485010, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666485114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666485120, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666487554, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666488045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666488070, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666489270, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666489624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666489629, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666490906, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.RemoteConfig.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666491043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666491050, "dur":581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.RemoteConfig.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666491643, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666491870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666491878, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666493331, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666493432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666493439, "dur":807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666494258, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666494359, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666494365, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666495378, "dur":435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666495817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666495825, "dur":488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666496324, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666496425, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666496431, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666497166, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666497255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666497262, "dur":643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666497917, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666498026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666498033, "dur":497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666498546, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666498804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666498809, "dur":439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666499259, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666499336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666499341, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666500654, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Authentication.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666500773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666500779, "dur":705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Services.Authentication.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666501496, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666501583, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666501588, "dur":501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666502100, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666502388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666502393, "dur":2710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666505125, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666505145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669661666505155, "dur":163687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669661666668859, "dur":47740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666353088, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666353089, "dur":2613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666355702, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1669661666355760, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666356000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666358785, "dur":3515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1669661666362348, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1669661666362390, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666362661, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666362667, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1669661666363990, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666364035, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666364063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666364224, "dur":55038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666419350, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666419416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666419444, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666421227, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666421252, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666421257, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666422767, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666422795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666422897, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666424023, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666424050, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666424054, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666424996, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666425026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666425034, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666426865, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666426889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666426894, "dur":27061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666453982, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666454010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666454020, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666454821, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666454837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666454843, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666455562, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666455576, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666455622, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666456450, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666456468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666456475, "dur":587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457081, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457097, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457104, "dur":848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457966, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457980, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666457990, "dur":89954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666547962, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666548115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666548123, "dur":568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666548704, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666548820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666548825, "dur":497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666549332, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666549345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666549351, "dur":12715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666562082, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666562100, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666562109, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666565829, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666565845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666565853, "dur":2944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666568815, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666568834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666568842, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666569926, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666569941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666569947, "dur":8720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666578683, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666578699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666578708, "dur":2210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666580937, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666580953, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666580960, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666583252, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666583269, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666583277, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666584112, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666584125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666584131, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586180, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586207, "dur":526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586745, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586760, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666586818, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666587668, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666587683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666587690, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666588248, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666588261, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666588266, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666592132, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666592153, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666592158, "dur":8460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666600697, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666600720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666600726, "dur":2386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666603140, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666603164, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666603182, "dur":9842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669661666613043, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1669661666613136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666613337, "dur":4178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1669661666617527, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1669661666617540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666617544, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1669661666618196, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1669661666618211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666618217, "dur":3184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1669661666621421, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1669661666621439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669661666621448, "dur":36887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1669661666658357, "dur":58268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666353150, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666353151, "dur":2531, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666355682, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1669661666355735, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666355978, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666358726, "dur":3020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1669661666361874, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1669661666361932, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666362014, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666362019, "dur":2436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1669661666364488, "dur":2174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online.exe" }}
+,{ "pid":12345, "tid":7, "ts":1669661666366669, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666366678, "dur":53728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online.exe" }}
+,{ "pid":12345, "tid":7, "ts":1669661666420428, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666420453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666420460, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666422933, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666422956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666422961, "dur":1038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666424018, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666424066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666424071, "dur":76747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666500831, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.RemoteConfig.Editor.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666500945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666500950, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.RemoteConfig.Editor.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666501605, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666501619, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666501624, "dur":588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666502222, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666502235, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669661666502240, "dur":157711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669661666659964, "dur":56642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666353232, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666353232, "dur":2426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666355658, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1669661666355726, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666355863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666359110, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1669661666361863, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669661666361897, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666362010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666362016, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669661666363301, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1669661666363335, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666363358, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666363363, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1669661666364869, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666364886, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666365695, "dur":226411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666592133, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666592150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666592158, "dur":4584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666596759, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666597013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666597019, "dur":2053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666599086, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666599103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666599109, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666600980, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666600992, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666600996, "dur":8276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666609284, "dur":60215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/rock paper scissors online/app/Jankenpon Online_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666669503, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669661666675254, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/rock paper scissors online/app/Jankenpon Online_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669661666675990, "dur":40599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669661666722923, "dur":2722, "ph":"X", "name": "ProfilerWriteOutput" }
+,
